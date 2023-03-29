@@ -1,6 +1,8 @@
 # call_center_trends
 Learn about call center trends from October 2020. 
 
+![](CallCenterDashboardPreview.png)
+
 # Call Center Excel File
 ## Sheets within the file
 ### CallCenter
